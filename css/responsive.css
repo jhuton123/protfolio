@@ -1,0 +1,645 @@
+@media(min-width: 320px) and (max-width: 575px){
+
+
+.tittle{
+    text-align: center;
+}
+ .tittle h1{
+   text-align: center;
+   font-size: 11px;
+   margin: 14px 0px;
+}
+.tittle p {
+     font-size: 9px;
+     width: 275px;
+    text-align: center;
+     margin: 10px auto;
+}
+
+/* ==============nav-part-start============= */
+    #nav-part .navbar-light .navbar-brand{
+        margin-left: 30px;
+    }
+
+    #nav-part .navbar-light .navbar-toggler{
+        background: #fff;
+        color: #353535;
+        margin-left: 125px;
+        margin-bottom: 10px;
+    }
+    #banner-part .item .overlay h3{
+        line-height: 30px;
+    }
+    #banner-part .item .overlay{
+        padding: 140px 0;
+    }
+
+    #nav-part .menu {
+        background: #000;
+        padding: 18px 0px;
+    }
+    
+    #nav-part .d-flex {
+       margin-left: 0;
+        margin-right: 50px;
+        padding-left: 10px;
+    }
+/* ==============nav-part-end============= */
+
+/* ==============manegment-part-start============= */
+#manegment-part .main .item{
+    width: 290px;
+    margin-top: 30px;
+}
+#manegment-part .main .item h3{
+    font-size: 14px;
+}
+#manegment-part .main .item a{
+    font-size: 60px;
+}
+#manegment-part .main .item p{
+    width: 152px;
+    line-height: 35px;
+}
+#video-part .overlay {
+    text-align: revert;
+    padding: 75px 115px;
+}
+
+
+
+ 
+/* ==============team-part-start============= */
+#team-part .item .img .overlay {
+    width: 26%;
+}
+
+#team-part .item .img img {
+    width: 26%;
+
+}
+
+#team-part .item .text {
+    padding: 10px 21px;
+}
+#team-part .item {
+    margin-top: 125px;
+}
+
+#team-part .item .img .overlay a {
+    margin: 25px 244px;
+}
+/* ==============team-part-end============= */
+
+
+
+/* ==============pricing-part-start============= */
+
+#pricing-part .item {
+    margin-top: 30px;
+    width: 26%;
+}
+
+#pricing-part .signup {
+    left: 90px;
+}
+
+/* ==============pricing-part-end============= */
+
+
+/* ==============slider-part-start============= */
+.slick-slide img {
+
+    margin-left: 30px;
+}
+
+/* ==============slider-part-end============= */
+
+/* ==============work-type-part-start============= */
+#work-type .item .img img {
+    width: auto;
+    /* height: 100%; */
+}
+
+#work-type ul {
+    left: 132px;
+    top: 368px;    
+}
+
+/* ==============work-type-part-end============= */
+
+/* ==============project-part-start============= */
+#project-part .item .img::after {
+    left: 80px;
+   
+}
+
+/* ==============project-part-end============= */
+
+
+
+
+}
+
+@media(min-width: 576px) and (max-width: 767px){
+
+
+    .tittle{
+        text-align: center;
+    }
+     .tittle h1{
+       text-align: center;
+       font-size: 11px;
+       margin: 14px 0px;
+    }
+    .tittle p {
+         font-size: 9px;
+         width: 275px;
+        text-align: center;
+         margin: 10px auto;
+    }
+    
+    /* ==============nav-part-start============= */
+    .form-control{
+        display: none;
+    }
+    #nav-part .d-flex span a{
+        margin-left: 0;
+    }
+#nav-part .menu ul{
+    padding: 13px 0px;
+}
+
+        #nav-part .navbar-light .navbar-brand{
+            margin-left: 30px;
+        }
+    
+        #nav-part .navbar-light .navbar-toggler{
+            background: #fff;
+            color: #353535;
+            margin-left: 125px;
+            margin-bottom: 10px;
+        }
+        #banner-part .item .overlay h3{
+            line-height: 30px;
+        }
+        #banner-part .item .overlay{
+            padding: 140px 0;
+        }
+    
+        #nav-part .menu {
+            background: #000;
+            width: 100%;
+        }
+        
+        #nav-part .d-flex {
+           margin-left: 0;
+            margin-right: 50px;
+            padding-left: 10px;
+        }
+        #nav-part .d-flex span{
+          padding-bottom: 14px;
+        }
+    /* ==============nav-part-end============= */
+    
+    /* ==============manegment-part-start============= */
+    #manegment-part .main .item {
+        width: 100%;
+        margin-top: 30px;
+
+    }
+    #manegment-part .main .item h3{
+        font-size: 14px;
+    }
+    #manegment-part .main .item a{
+        font-size: 60px;
+    }
+    #manegment-part .main .item p{
+        width: 152px;
+        line-height: 35px;
+    }
+    #video-part .overlay {
+        text-align: center;
+    }
+    
+    
+    
+     
+    /* ==============team-part-start============= */
+    #team-part .item .img .overlay {
+        width: 100%;
+    }
+    
+    #team-part .item .img img {
+        width: 100%;
+    
+    }
+
+    #team-part .item .text p {
+     
+        width: auto;
+    }
+    
+    /* #team-part .item .text {
+        padding: 10px 131.5px;
+    } */
+    #team-part .item {
+        margin-top: 125px;
+    }
+    
+    #team-part .item .img .overlay a {
+        margin: 25px 200px;
+    }
+    /* ==============team-part-end============= */
+    
+    
+    
+    /* ==============pricing-part-start============= */
+    
+    #pricing-part .item {
+        margin-top: 30px;
+        width: 100%;
+    }
+    
+    #pricing-part .signup {
+        left: 90px;
+    }
+    
+    /* ==============pricing-part-end============= */
+    
+    
+    /* ==============slider-part-start============= */
+    .slick-slide img {
+    
+        margin-left: 30px;
+    }
+    
+    /* ==============slider-part-end============= */
+    
+    /* ==============work-type-part-start============= */
+    #work-type .item .img img {
+        width: auto;
+        /* height: 100%; */
+    }
+    
+    #work-type ul {
+        left: 260px;
+        top: 375px;
+    }
+    
+    /* ==============work-type-part-end============= */
+    
+    /* ==============project-part-start============= */
+    #project-part .item .img::after {
+        left: 206px;
+    }
+    
+    /* ==============project-part-end============= */
+    
+    #footer-part {
+        padding: 150px 75px;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+
+
+    .tittle{
+        text-align: center;
+    }
+     .tittle h1{
+       text-align: center;
+       font-size: 11px;
+       margin: 14px 0px;
+    }
+    .tittle p {
+         font-size: 9px;
+         width: 275px;
+        text-align: center;
+         margin: 10px auto;
+    }
+    
+    /* ==============nav-part-start============= */
+    .form-control{
+        display: none;
+    }
+    #nav-part .d-flex span a{
+        margin-left: 0;
+    }
+#nav-part .menu ul{
+    padding: 13px 0px;
+}
+
+        #nav-part .navbar-light .navbar-brand{
+            margin-left: 30px;
+        }
+    
+        #nav-part .navbar-light .navbar-toggler{
+            background: #fff;
+            color: #353535;
+            margin-left: 125px;
+            margin-bottom: 10px;
+        }
+        #banner-part .item .overlay h3{
+            line-height: 30px;
+        }
+        #banner-part .item .overlay{
+            padding: 140px 0;
+        }
+    
+        #nav-part .menu {
+            background: #000;
+            width: 100%;
+        }
+        
+        #nav-part .d-flex {
+           margin-left: 0;
+            margin-right: 50px;
+            padding-left: 10px;
+        }
+        #nav-part .d-flex span{
+          padding-bottom: 14px;
+        }
+    /* ==============nav-part-end============= */
+    
+    /* ==============manegment-part-start============= */
+    #manegment-part .main .item {
+        width: 100%;
+        margin-top: 30px;
+        /* margin-left: 75px; */
+    }
+    #manegment-part .main .item h3{
+        font-size: 14px;
+    }
+    #manegment-part .main .item a{
+        font-size: 60px;
+    }
+    #manegment-part .main .item p{
+        width: 152px;
+        line-height: 35px;
+    }
+    #video-part .overlay {
+        text-align: center;
+    }
+    
+    
+    
+     
+    /* ==============team-part-start============= */
+    #team-part .item .img .overlay {
+        width: 100%;
+    }
+    
+    #team-part .item .img img {
+        width: 100%;
+    
+    }
+
+    #team-part .item .text p {
+     
+        width: auto;
+    }
+    
+    /* #team-part .item .text {
+        padding: 10px 131.5px;
+    } */
+    #team-part .item {
+        margin-top: 125px;
+    }
+    
+    #team-part .item .img .overlay a {
+        margin: 40px 280px;
+    }
+    /* ==============team-part-end============= */
+    
+    
+    
+    /* ==============pricing-part-start============= */
+    
+    #pricing-part .item {
+        margin-top: 30px;
+        width: 100%;
+    }
+    
+    #pricing-part .signup {
+        left: 115px;
+    }
+    
+    /* ==============pricing-part-end============= */
+    
+    
+    /* ==============slider-part-start============= */
+    .slick-slide img {
+    
+        margin-left: 30px;
+    }
+    
+    /* ==============slider-part-end============= */
+    
+    /* ==============work-type-part-start============= */
+    #work-type .item .img img {
+        width: auto;
+        /* height: 100%; */
+    }
+    
+    #work-type ul {
+        left: 335px;
+        top: 380px;
+    }
+    #work-type .item .img {
+        /* width: 100%; */
+       
+        margin: 0 -25px;
+    }
+    /* ==============work-type-part-end============= */
+    
+    /* ==============project-part-start============= */
+    
+#project-part .item .img::after {
+    left: 300px;
+}
+    
+    /* ==============project-part-end============= */
+    
+    #footer-part {
+        padding: 150px 110px;
+    }
+}
+
+@media(min-width: 992px) and (max-width: 1192px){
+
+    .tittle{
+        text-align: center;
+    }
+     .tittle h1{
+       text-align: center;
+       font-size: 11px;
+       margin: 14px 0px;
+    }
+    .tittle p {
+         font-size: 9px;
+         width: 275px;
+        text-align: center;
+         margin: 10px auto;
+    }
+    
+    /* ==============nav-part-start============= */
+/* .form-control{
+        display: none;
+} */
+#nav-part .d-flex span a{
+        margin-left: 0;
+}
+#nav-part .menu ul {
+    padding: 13px 40px;
+    margin-left: 30px;
+}
+
+
+
+#nav-part .menu ul li a {
+    padding-right: 23px;
+}
+
+        #nav-part .navbar-light .navbar-brand{
+            margin-left: 30px;
+        }
+    
+        #nav-part .navbar-light .navbar-toggler{
+            background: #fff;
+            color: #353535;
+            margin-left: 125px;
+            margin-bottom: 10px;
+        }
+        #banner-part .item .overlay h3{
+            line-height: 30px;
+        }
+        #banner-part .item .overlay{
+            padding: 140px 0;
+        }
+    
+        #nav-part .menu {
+            /* background: #000; */
+            width: 100%;
+        }
+        
+        #nav-part .d-flex {
+           margin-left: 0;
+            margin-right: 50px;
+            padding-left: 10px;
+        }
+        #nav-part .d-flex span {
+            padding-bottom: 5px;
+        }
+    /* ==============nav-part-end============= */
+    
+    /* ==============manegment-part-start============= */
+    #manegment-part .main .item {
+        width: 100%;
+        margin-top: 30px;
+        margin-left: 12px;
+    }
+    #manegment-part .main .item h3{
+        font-size: 14px;
+    }
+    #manegment-part .main .item a{
+        font-size: 60px;
+    }
+    #manegment-part .main .item p{
+        width: 152px;
+        line-height: 35px;
+    }
+    #video-part .overlay {
+        text-align: center;
+    }
+    
+    #manegment-part .main .item .read a {
+        padding-bottom: 0px;
+       
+    }
+    
+     
+    /* ==============team-part-start============= */
+    #team-part .item .img .overlay {
+        width: 100%;
+    }
+    
+    #team-part .item .img img {
+        width: 100%;
+    
+    }
+
+    #team-part .item .text p {
+     
+        width: auto;
+    }
+    
+    /* #team-part .item .text {
+        padding: 10px 131.5px;
+    } */
+    #team-part .item {
+        margin-top: 50px;
+        margin-bottom: -75px;
+    }
+    
+    #team-part .item .img .overlay a {
+        margin: 20px 169px;
+    }
+    #team-part .item .img .overlay a {
+    margin: 20px 169px;
+}
+    /* ==============team-part-end============= */
+    
+    
+    
+    /* ==============pricing-part-start============= */
+    
+    #pricing-part .item {
+        margin-top: 30px;
+        width: 100%;
+    }
+    
+    #pricing-part .signup {
+        left: 60px;
+    }
+    
+    /* ==============pricing-part-end============= */
+    
+    
+    /* ==============slider-part-start============= */
+    .slick-slide img {
+    
+        margin-left: 30px;
+    }
+    
+    /* ==============slider-part-end============= */
+    
+    /* ==============work-type-part-start============= */
+    #work-type .item .img img {
+        width: auto;
+        /* height: 100%; */
+    }
+    
+    #work-type ul {
+        left: 458px;
+        top: 380px;
+    }
+    #work-type .item .img {
+        /* width: 100%; */
+       
+        margin: 0 -25px;
+    }
+    /* ==============work-type-part-end============= */
+    
+    /* ==============project-part-start============= */
+    
+    #project-part .item .img::after {
+        left: 75px;
+    }
+    
+    /* ==============project-part-end============= */
+    
+    #footer-part {
+        padding: 150px 40px;
+    }
+}
