@@ -1,7 +1,7 @@
 @media(min-width: 320px) and (max-width: 575px){
 
     body{
-        overflow-x: hidden;
+        overflow: hidden;
     }
 .tittle{
     text-align: center;
